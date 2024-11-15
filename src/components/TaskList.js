@@ -39,7 +39,7 @@ const TaskList = ({ tasks, deleteTask, showEditForm, toggleTaskStatus }) => {
                                             now={progressValue}
                                             label={`${progressValue}%`}
                                             animated
-                                            variant={progressValue === 100 ? "success" : "primary"} // warna biru Bootstrap
+                                            variant={progressValue === 100 ? "success" : "primary"}
                                         />
                                     </td>
                                     <td>{task.name}</td>
@@ -62,7 +62,7 @@ const TaskList = ({ tasks, deleteTask, showEditForm, toggleTaskStatus }) => {
                                         </OverlayTrigger>
                                         <OverlayTrigger placement="top" overlay={<Tooltip>Edit Task</Tooltip>}>
                                             <Button 
-                                                variant="primary" // Mengubah warna tombol Edit menjadi biru
+                                                variant="primary"
                                                 size="sm" 
                                                 onClick={() => showEditForm(task)}
                                             >
