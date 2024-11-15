@@ -73,4 +73,12 @@ thub.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 Results to do list
 
-![Uploading Screenshot_2.png…]()
+![tampilan awal](https://github.com/user-attachments/assets/026246d9-dd9c-4ef6-aa8b-1a1d7a5fa3ef)
+![add task](https://github.com/user-attachments/assets/983a7ca3-7745-43c4-9106-83207b1a037e)
+![opsi](https://github.com/user-attachments/assets/cf1dcd03-9f19-485d-8528-2718c9824194)
+![opsi 2](https://github.com/user-attachments/assets/c196a003-6e56-4834-ac7d-fd22a0b09426)
+![opsi 3](https://github.com/user-attachments/assets/c05fecd0-ebef-4afd-9b97-6694e5cb2f59)
+![to do list](https://github.com/user-attachments/assets/4058c9f0-9d82-40c0-b179-04636da9c8de)
+
+
+
